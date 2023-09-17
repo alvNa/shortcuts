@@ -1,0 +1,3 @@
+@echo off
+echo Moving pom to the local repository ...
+mvn install:install-file -Dfile=pom.xml -DpomFile=pom.xml -q

@@ -1,0 +1,3 @@
+@echo off
+echo Sorting pom ...
+mvn sortpom:sort %1

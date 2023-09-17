@@ -1,0 +1,3 @@
+@echo off
+echo Finding Bugs ...
+mvn spotbugs:spotbugs %1
