@@ -1,5 +1,5 @@
 
-source compress_alias.sh
-source git_alias.sh
-source maven_alias.sh
-source utils_alias.sh
+source alias/compress_alias.sh
+source alias/git_alias.sh
+source alias/maven_alias.sh
+source alias/utils_alias.sh
