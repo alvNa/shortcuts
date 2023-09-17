@@ -1,0 +1,17 @@
+# Maven aliases
+
+alias mc='mvn clean '
+alias mci='mvn clean install '
+alias mcis='mvn clean install -DskipTests -q '
+alias mcp='mvn clean package -q'
+alias mct='mvn clean test '
+alias mda='mvn dependency:analyze '
+alias mdr='mvn dependency:resolve '
+alias mdep='mvn dependency:tree '
+alias mi='mvn install '
+alias mis='mvn install -DskipTests -q'
+alias mres='mvn dependency:resolve '
+alias mresp='mvn dependency:resolve-plugins '
+alias msec='mvn org.owasp:dependency-check-maven:check '
+alias msort='mvn sortpom:sort '
+alias mt='mvn test '
