@@ -1,4 +1,3 @@
-
 # Replace this path if the aliases are stored elsewhere.
 alias_dir="$HOME/alias"
 
